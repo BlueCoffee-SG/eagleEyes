@@ -1,9 +1,9 @@
 SpyEyes :
-   SpyEyes is Distributed Monitor System
+   eagleEyes is Distributed Monitor System
 
-SpyEyes Stuct
+eagleEyes Stuct
    agent
    Server
 
 
-SpyEyes is develop by golang
+eagleEyes is develop by golang
