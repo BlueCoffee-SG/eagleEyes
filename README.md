@@ -1,4 +1,4 @@
-SpyEyes :
+eagleEyes :
    eagleEyes is Distributed Monitor System
 
 eagleEyes Stuct
